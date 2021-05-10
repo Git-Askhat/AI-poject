@@ -11,3 +11,6 @@ This program is my version of solving the MNIST Digit data set. It allows the us
 - Keras
 - Numpy
 - Matplotlib
+
+<img src="https://user-images.githubusercontent.com/49748480/117596382-12ca6780-b165-11eb-9641-688a936ea6a3.png" width="760" height="480" />
+
